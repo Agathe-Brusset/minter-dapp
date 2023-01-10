@@ -304,6 +304,7 @@ section {
   vertical-align: top;
   text-align: center;
   outline: none;
+  padding: 1rem;
 }
 
 .input-number,
