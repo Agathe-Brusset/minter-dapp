@@ -301,12 +301,9 @@ section {
 
 .input-number {
   height: 100%;
-  padding: 1rem;
   vertical-align: top;
   text-align: center;
   outline: none;
-  font-size: 1rem;
-  line-height: 1.8rem;
 }
 
 .input-number,
