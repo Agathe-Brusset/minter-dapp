@@ -2,7 +2,7 @@ const contractAddress = "0x128d1d2b0Ee4C43dE8F60f4110537309f587e3C8"; // Replace
 const chain = "goerli"; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the GirlBoss Collective NFT Project!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h2 = "Connect to MetaMask to get started";
 const welcome_p =
   "The GirlBoss Collective NFT Project is a decentralized, open-source dummy project to understand how to develop and launch my own NFT Collection. <br> I am Agathe Brusset, a product manager specialized in devtools.";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
