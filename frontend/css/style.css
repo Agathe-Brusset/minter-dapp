@@ -13,7 +13,7 @@
   --font-color: #003147;
   --btn-bg-color: #00b0ff;
   --accent-color: #fff;
-  --header-shadow: var(--accent-color) 0px 0px 5px;
+  --header-shadow: var(--accent-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
 
@@ -47,12 +47,14 @@ body {
 header {
   background-color: #fff;
   box-shadow: var(--header-shadow);
+  min-width: 100%;
 }
 
 header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  min-width: 80%;
 }
 
 .menu {
