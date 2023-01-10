@@ -126,6 +126,7 @@ header .container {
 
 .btn:hover {
   box-shadow: none;
+  background-color: #003147;
 }
 .btn:disabled {
   cursor: default;
@@ -308,6 +309,8 @@ section {
 .input-number-decrement,
 .input-number-increment {
   user-select: none;
+  background-color: #f9fdff;
+  border-color: #b1e6ff;
 }
 
 .total-price-container {
