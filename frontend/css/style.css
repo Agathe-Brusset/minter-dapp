@@ -284,6 +284,8 @@ section {
   padding: 1rem;
   background-color: var(--accent-color);
   border-radius: 5px;
+  font-size: 1rem;
+  line-height: 1.8rem;
 }
 
 .mint-qty > span {
@@ -303,6 +305,8 @@ section {
   vertical-align: top;
   text-align: center;
   outline: none;
+  font-size: 1rem;
+  line-height: 1.8rem;
 }
 
 .input-number,
