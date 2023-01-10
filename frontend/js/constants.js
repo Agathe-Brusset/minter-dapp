@@ -1,5 +1,5 @@
-const contractAddress = "0x128d1d2b0Ee4C43dE8F60f4110537309f587e3C8"; // Replace with your own contract address
-const chain = "goerli"; // goerli, polygon, or ethereum
+const contractAddress = "0x3E6EF5e87d36cA5172aC66b89AC1F91feD75C4B9"; // Replace with your own contract address
+const chain = "polygon"; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the GirlBoss Collective NFT Project!";
 const welcome_h2 = "Connect to MetaMask to get started";
