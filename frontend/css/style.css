@@ -136,20 +136,20 @@ header .container {
   border-radius: 5rem;
 }
 
-.hero-btn {
+.mint-btn {
   border-radius: 4px;
   font-size: 1rem;
   padding: 0.5rem 1rem;
 }
 
-.hero-btn span {
+.mint-btn span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-.hero-btn span:after {
+.mint-btn span:after {
   content: "\00bb";
   position: absolute;
   opacity: 0;
@@ -158,11 +158,11 @@ header .container {
   transition: 0.5s;
 }
 
-.hero-btn:hover span {
+.mint-btn:hover span {
   padding-right: 25px;
 }
 
-.hero-btn:hover span:after {
+.mint-btn:hover span:after {
   opacity: 1;
   right: 0;
 }
