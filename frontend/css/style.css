@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap");
 
 /* GLOBAL STYLES */
 
 :root {
   --font-primary: "Inter", sans-serif;
   --font-secondary: "Inter", serif;
-  --font-code: "Inter", monospace;
+  --font-code: "Roboto", monospace;
   --bg-color: #f8f8f8;
   --bg-color-transparent: #ffffff80;
   --font-color: #003147;
@@ -45,7 +45,7 @@ body {
 /* HEADER */
 
 header {
-  background-color: var(--bg-color);
+  background-color: #fff;
   box-shadow: var(--header-shadow);
 }
 
